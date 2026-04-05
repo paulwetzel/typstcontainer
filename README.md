@@ -6,4 +6,4 @@ Working with typst documents online is as easy as pie, just open up the [online 
 
 - You don't have to install any tools or programms.
 - All features of Typst are already included.
-- Editing can happy completly local. 
+- Editing can happen completly local. 
